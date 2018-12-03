@@ -1,0 +1,17 @@
+D:\l\source\repos\simulator\simulator\bin\Debug\simulator.exe.config
+D:\l\source\repos\simulator\simulator\bin\Debug\simulator.exe
+D:\l\source\repos\simulator\simulator\bin\Debug\simulator.pdb
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.csprojAssemblyReference.cache
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Check.resources
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Form1_init.resources
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Properties.Resources.resources
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.csproj.GenerateResource.cache
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.csproj.CoreCompileInputs.cache
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.exe
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.pdb
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Meau.resources
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Deposit.resources
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Inquire.resources
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Over.resources
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Tansfer.resources
+D:\l\source\repos\simulator\simulator\obj\Debug\simulator.Withdraw.resources
